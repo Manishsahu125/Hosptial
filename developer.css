@@ -1,0 +1,363 @@
+nav {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+
+}
+
+.item1 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item2 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item3 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.dropdown {
+    background-color: aliceblue;
+
+}
+
+.brand-name {
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.logoimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.searchbar {
+    margin-left: 20px;
+    height: 40px;
+    border-radius: 5px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #E5E4E2;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.searchbar:hover {
+    background-color: #8D7490;
+    color: white;
+}
+
+.navbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 60px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #E5E4E2;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.navbtn:hover {
+    background-color: #8D7490;
+    color: white;
+}
+
+.contactbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #E5E4E2;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.contactbtn:hover {
+    background-color: #8D7490;
+    color: white;
+}
+
+.loginbtn {
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #E5E4E2;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.loginbtn:hover {
+    background-color: #8D7490;
+    color: white;
+}
+
+.signbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #E5E4E2;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.signbtn:hover {
+    background-color: #8D7490;
+    color: white;
+}
+
+.fa-phone {
+    color: white;
+    margin-top: 0.8%;
+    margin-right: 2%;
+}
+.f1 {
+    background-color: black;
+}
+
+.infomationtag {
+    text-align: center;
+    color: darkgrey;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.ourservicesheader {
+    text-align: left;
+    color: darkgray;
+    font-size: 18px;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.ourservicesparagraph {
+    font-size: 15px;
+    color: darkgray;
+    margin-top: 10px;
+}
+
+.copyrightline {
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+body {
+    background-color: gainsboro;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.moto {
+    margin-bottom: 1%;
+    
+    background-color: black;
+    
+}
+
+.imgcoloum {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.myimg1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: auto;
+}
+
+
+.dintro1{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+    margin-left: 20px;
+}
+.dintro2{
+    color: white;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-right: 25px;
+}
+.dname{
+    font-size: 100px;
+}
+.skill{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 50px;
+    font-family: serif;
+}
+.front{
+    background-color: black;
+    width: 300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    border: 2px dotted white;
+}
+.back{
+     background-color: black;
+    width: 300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    border: 2px dotted white;
+}
+.other{
+    background-color: black;
+    width: 300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    border: 2px dotted white;
+}
+.fronttext{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.backtext{
+   color: white;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.othertext{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.slist{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.slist:hover{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: serif;
+    text-decoration: underline;
+}
+.aboutbtn{
+    width: 100px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    background-color: darkgreen;
+    color: white;
+}
+.aboutbtn:hover{
+    width: 100px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    background-color: darkred;
+    color: white;
+    border-radius: 50%;
+}
+
+.c2{
+    background-color: black;
+    border-radius: 50%;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: 2px dotted white;
+}
+
+.thankyoutag{
+    color: white;
+    text-align: center;
+    font-family: serif;
+}
